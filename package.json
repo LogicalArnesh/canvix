@@ -1,8 +1,8 @@
 {
-  "name": "canvix",
+  "name": "cramva",
   "version": "0.9.1",
   "private": false,
-  "description": "Canvix \u2014 free & open-source graphic design tool. A community-built Canva alternative.",
+  "description": "Cramva — graphic design tool by Arnesh. Testing by Arnesh.",
   "scripts": {
     "dev": "next dev -p 3000 2>&1 | tee dev.log",
     "build": "next build && cp -r .next/static .next/standalone/.next/ && cp -r public .next/standalone/",
