@@ -3,25 +3,24 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "Canvix — Design anything, free forever",
+  title: "Cramva — Design anything · testing by Arnesh",
   description:
-    "Canvix is a free & open-source graphic design tool. Create social posts, presentations, posters, logos and more with a drag-and-drop editor that works on desktop, tablet and mobile.",
+    "Cramva is a graphic design tool by Arnesh. Create social posts, presentations, posters, logos and more with a drag-and-drop editor that works on desktop, tablet and mobile. Testing by Arnesh.",
   keywords: [
-    "canvix",
+    "cramva",
     "design tool",
-    "open source",
-    "canva alternative",
     "graphic design",
     "templates",
     "drag and drop editor",
+    "arnesh",
   ],
-  authors: [{ name: "Ashiq Hussain Mir" }],
+  authors: [{ name: "Arnesh" }],
   icons: { icon: "/canvix.svg" },
   openGraph: {
-    title: "Canvix — Design anything, free forever",
+    title: "Cramva — Design anything · testing by Arnesh",
     description:
-      "Free & open-source graphic design tool. A community-built Canva alternative.",
-    siteName: "Canvix",
+      "Graphic design tool by Arnesh. Testing by Arnesh.",
+    siteName: "Cramva",
     type: "website",
   },
 };
