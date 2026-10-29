@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils'
 
-/** Canvix gradient logo mark — stacked design layers */
+/** Cramva gradient logo mark — stacked design layers */
 export function LogoMark({ className, size = 36 }: { className?: string; size?: number }) {
   return (
     <svg
@@ -44,7 +44,7 @@ export function Logo({ className, size = 32 }: { className?: string; size?: numb
           color: 'transparent',
         }}
       >
-        canvix
+        cramva
       </span>
     </span>
   )
